@@ -18,16 +18,11 @@
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/Connect-Creater-skyblue?style=for-the-badge&logo=telegram)](https://telegram.dog/Mo_Tech_YT)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![MoTechYT](https://img.shields.io/badge/MoTechYT-Support-red?style=flat&logo=telegram)](https://telegram.dog/Mo_Tech_Channel)  [![TroJanz](https://img.shields.io/badge/Youtube-channel-red?style=flat&logo=Youtube)](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)  ㅤㅤㅤㅤㅤㅤ  
-
-[![MoTechYT](https://img.shields.io/badge/Connect-Telegram-red?style=flat&logo=telegram)](https://telegram.dog/Mrk_yt)
 
 
 ### Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rushaidt/Unlimited-Filter-Bot)
 
 ### Features
 * Nearly unlimited filters
